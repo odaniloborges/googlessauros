@@ -8,7 +8,7 @@ let dados = [
         peso: "Peso: Estima-se entre 5 e 8 toneladas",
         habitat: "Habitat: Florestas e planícies da América do Norte",
         curiosidades: "Curiosidade: O T-Rex possuía um olfato extremamente desenvolvido.",
-        tags: "Carnívoro Terópode Predador Cretáceo América do Norte",
+        tags: "Carnívoro Terópode Predador Cretáceo América do Norte T rex T-Rex",
         imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tyrannosaurus_Rex_Skeletal.png/800px-Tyrannosaurus_Rex_Skeletal.png",
         link: "https://pt.wikipedia.org/wiki/Tiranossauro_rex"
     },
