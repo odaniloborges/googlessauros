@@ -243,7 +243,7 @@ body {
         text-align: center; /* Alinha o texto ao centro */
         padding: 0; /* Espaçamento interno */
         width: 100%; /* Largura total da página */
-        position: relative; /* Posiciona o rodapé */
+        position: absolute; /* Posiciona o rodapé */
         bottom: 0; /* Alinha ao fundo da página */
         font-size: 0.8rem; /* Tamanho da fonte */
         margin: 0.3rem 0; /* Margem acima e abaixo */
