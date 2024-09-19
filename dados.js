@@ -401,5 +401,18 @@ let dados = [
         tags: "Herbívoro Saurópode Jurássico América do Sul",
         imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Amargasaurus_skeleton.jpg/800px-Amargasaurus_skeleton.jpg",
         link: "https://pt.wikipedia.org/wiki/Amargasaurus"
+    },
+    {
+        titulo: "Herrerassauro",
+        descricao: "Um dos primeiros dinossauros carnívoros conhecidos, o Herrerassauro era um predador ágil e feroz.",
+        periodo: "Periodo: Triássico Superior",
+        alimentacao: "Alimentação: Carnívoro",
+        tamanho: "Tamanho: Até 4 metros de comprimento",
+        peso: "Peso: Estima-se em torno de 350 kg",
+        habitat: "Habitat: Regiões áridas da América do Sul",
+        curiosidades: "Curiosidade: O Herrerassauro possuía um crânio alongado com dentes afiados e um corpo ágil, características que o tornavam um caçador eficiente.",
+        tags: "Carnívoro Terópode Predador Triássico América do Sul",
+        imagem: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Herrerasaurus_skeleton_BW.png/800px-Herrerasaurus_skeleton_BW.png",
+        link: "https://pt.wikipedia.org/wiki/Herrerassauro"
     }
 ];
