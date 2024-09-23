@@ -12,7 +12,7 @@ body {
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
-    justify-content: space-evenly; /*deixa espaços minimos entre as seções*/
+    justify-content: space-between; /*deixa espaços minimos entre as seções*/
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
