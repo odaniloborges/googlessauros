@@ -6,11 +6,13 @@
 
 /* Estiliza o corpo da página */
 body {
+    background-image: url("imagens/Pattern.png");
+    background-repeat: no-repeat;
     font-family: "Roboto", sans-serif; /* Define a fonte padrão */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
-    justify-content: center; /* Centraliza os itens verticalmente */
+    justify-content: space-evenly; /*deixa espaços minimos entre as seções*/
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
