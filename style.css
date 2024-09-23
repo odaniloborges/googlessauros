@@ -7,7 +7,7 @@
 /* Estiliza o corpo da página */
 body {
     background-image: url("imagens/Pattern.png");
-    background-repeat: no-repeat;
+    background-repeat: auto;
     font-family: "Roboto", sans-serif; /* Define a fonte padrão */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
